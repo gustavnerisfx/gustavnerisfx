@@ -5,7 +5,7 @@
 <br>
 
 <p>Olá! meu nome é Gustavo Neris <br> Sou um estudante de programação e curso deselvolvimento de sistemas <br> na Etec Fernando Prestes, Sorocaba</p>
-<br>
+
 
 # Tecnologias que eu sei utilizar
 <br>
