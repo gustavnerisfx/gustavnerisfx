@@ -14,6 +14,6 @@
 
 
 
-![Tecnologias](https://skillicons.dev/icons?i=react,ts,js,html,css,c,cs,java)
+![Tecnologias](https://skillicons.dev/icons?i=react,ts,js,php,html,css,c,cs,java)
 
 
