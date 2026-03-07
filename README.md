@@ -4,10 +4,8 @@
 
 
 
-<div style="height:30px;">
-  # Quem eu sou
-  <p>Olá! meu nome é Gustavo Neris <br> Sou um estudante de programação, <br> e curso Deselvolvimento de Sistemas na Etec Fernando Prestes, Sorocaba</p>
-</div>
+# Quem eu sou
+<p>Olá! meu nome é Gustavo Neris <br> Sou um estudante de programação, <br> e curso Deselvolvimento de Sistemas na Etec Fernando Prestes, Sorocaba</p>
 
 
 
