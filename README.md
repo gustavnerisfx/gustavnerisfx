@@ -8,6 +8,10 @@
 
 # Tecnologias que sei utilizar
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,c,cs,java" />
-</p>
+<div style="height:30px;">
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,c,cs,java" />
+  </p>
+</div>
+
+
