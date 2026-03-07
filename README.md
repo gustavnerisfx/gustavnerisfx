@@ -3,3 +3,9 @@
 
 # Quem eu sou
 <p>Olá! meu nome é Gustavo Neris <br> Sou um estudante de programação, <br> e curso Deselvolvimento de Sistemas na Etec Fernando Prestes, Sorocaba</p>
+
+# Tecnologias que sei utilizar
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,c,cs,java" />
+</p>
