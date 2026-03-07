@@ -10,7 +10,7 @@
 
 
 
-# Tecnologias que sei utilizar
+# Tecnologias que eu sei utilizar
 
 
 
