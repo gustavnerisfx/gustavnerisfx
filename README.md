@@ -16,11 +16,6 @@
 
 
 
-
-<div style="height:30px;">
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,c,cs,java" />
-  </p>
-</div>
+![Tecnologias](https://skillicons.dev/icons?i=react,ts,js,html,css,c,cs,java)
 
 
