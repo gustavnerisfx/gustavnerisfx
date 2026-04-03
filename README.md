@@ -10,6 +10,6 @@
 # Tecnologias que eu sei utilizar
 <br>
 
-![Tecnologias](https://skillicons.dev/icons?i=react,js,php,html,css,bootstrap,c,cs,java)
+![Tecnologias](https://skillicons.dev/icons?i=react,js,php,html,css,bootstrap,cs,java)
 
 
