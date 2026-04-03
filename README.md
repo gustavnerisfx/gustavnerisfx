@@ -7,7 +7,7 @@
 <p>Olá! meu nome é Gustavo. Sou um estudante de programação e curso <br> deselvolvimento de sistemas na Etec Fernando Prestes, Sorocaba.</p>
 
 
-# Tecnologias que eu sei utilizar
+# Tecnologias que sei utilizar
 <br>
 
 ![Tecnologias](https://skillicons.dev/icons?i=react,js,php,html,css,bootstrap,cs,java)
