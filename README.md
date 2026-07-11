@@ -4,7 +4,7 @@
 ## Quem eu sou
 <br>
 
-<p>Olá, meu nome é Gustavo. Sou um estudante que cursa <br> deselvolvimento de sistemas na Etec Fernando Prestes, <br> Sorocaba.</p>
+<p>Olá, meu nome é Gustavo. Sou um estudante que cursa <br> DS na Etec Fernando Prestes, <br> Sorocaba.</p>
 
 
 ## Tecnologias que sei utilizar
