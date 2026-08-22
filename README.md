@@ -1,8 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F702&width=435&lines=Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
-
-## Quem eu sou
 <br>
+## Quem eu sou
 
 <p>Olá, meu nome é Gustavo. Sou um estudante que <br> cursa DS na Etec Fernando Prestes, Sorocaba.</p>
 
